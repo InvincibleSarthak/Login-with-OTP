@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login-with-OTP</string>
+    <string name="title_activity_otpscreen">OTPScreen</string>
+</resources>
